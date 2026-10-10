@@ -13,7 +13,15 @@ This project demonstrates a retail data engineering and AI analytics workflow us
 
 
 **Pipeline:** Data Sources → Azure Data Factory → Azure Data Lake Storage (ADLS) → Databricks Medallion Architecture → Streamlit AI Analyst
+## Retail AI Analyst — Workflow & Application
 
+<p align="center">
+  <img src="./Retail%20AI%20Analyst%20Data%20Pipeline.png" width="100%" alt="Retail AI Analyst Data Pipeline">
+</p>
+
+<p align="center">
+  <img src="./Retail%20AI%20Analyst-1.png" width="85%" alt="Retail AI Analyst Streamlit Application">
+</p>
 ## Key Features
 
 ### 1. Multi-Source Data Integration
