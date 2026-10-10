@@ -60,6 +60,10 @@ The data processing workflow follows three layers:
 | **Gold**   | Organizes business-ready data for analytical queries. |
 
 The Gold dataset serves as the data source for the retail analytics application.
+<p align="center">
+  <img src="./Screenshot%20(233).png" width="85%" alt="Retail AI Analyst Additional Screenshot">
+</p>
+
 
 ### 5. Streamlit AI Analyst
 
