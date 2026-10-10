@@ -22,6 +22,7 @@ This project demonstrates a retail data engineering and AI analytics workflow us
 <p align="center">
   <img src="./Retail%20AI%20Analyst-1.png" width="85%" alt="Retail AI Analyst Streamlit Application">
 </p>
+
 ## Key Features
 
 ### 1. Multi-Source Data Integration
