@@ -38,6 +38,10 @@ This project demonstrates a retail data engineering and AI analytics workflow us
 - Performs extraction and transformation steps.
 - Loads data into Azure Data Lake Storage.
 - Provides a structured workflow for data ingestion.
+  
+<p align="center">
+  <img src="./Screenshot%20(224).png" width="100%">
+</p>
 
 ### 3. Centralized Data Storage with ADLS
 
